@@ -1,0 +1,14 @@
+{
+  "manifest_version": 1,
+  "app_name": "Faded Local Mod Installer",
+  "mods": [
+    {
+      "id": "FadedWeaponPack",
+      "name": "Faded's Weapon Pack",
+      "version": "1.0.0",
+      "description": "Project Zomboid local mod download test.",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/Faded/FadedWeaponPack.zip",
+      "zip_name": "FadedWeaponPack.zip"
+    }
+  ]
+}
