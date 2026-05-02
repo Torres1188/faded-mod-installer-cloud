@@ -3,12 +3,20 @@
   "app_name": "Faded Local Mod Installer",
   "mods": [
     {
-      "id": "FadedWeaponPack",
-      "name": "Faded's Weapon Pack",
+      "id": "FadedRealmsLib",
+      "name": "Faded Realms Lib",
       "version": "1.0.0",
-      "description": "Project Zomboid local mod download test.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/Faded/FadedWeaponPack.zip",
-      "zip_name": "FadedWeaponPack.zip"
+      "description": "Shared support library for Faded Realms Project Zomboid mods.",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/Faded/FadedRealmsLib.zip",
+      "zip_name": "FadedRealmsLib.zip"
+    },
+    {
+      "id": "FadedsGGSFix",
+      "name": "Faded's GGS Fix",
+      "version": "1.0.0",
+      "description": "Project Zomboid local mod fix package by Faded.",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/Faded/FadedsGGSFix.zip",
+      "zip_name": "FadedsGGSFix.zip"
     }
   ]
 }
