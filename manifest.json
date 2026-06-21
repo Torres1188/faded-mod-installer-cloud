@@ -46,7 +46,7 @@
       "id": "AuthenticZLite",
       "name": "Authentic Z - Lite",
       "version": "42",
-      "description": "Geared Zombies <LINE>",
+      "description": "Geared Zombies",
       "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/AuthenticZLite-v42.zip",
       "zip_name": "AuthenticZLite-v42.zip"
     },
@@ -362,7 +362,7 @@
       "id": "LifestyleHobbies",
       "name": "Lifestyle: Hobbies",
       "version": "42",
-      "description": "<H1> <CENTER> <RGB:0.1,0.8,1> Lifestyle: Hobbies </CENTER> </H1> <LINE> <CENTER> <H3> <RGB:0.1,0.8,1> Author: [Angry] </H3> </CENTER> <LINE> <LEFT> <RGB:1,1,1> Are you looking to add more variety and depth to your survival experience in Project Zomboid? *Lifestyle: Hobbies* introduces a range of new interactions and activities, making everyday survival more engaging and rewarding. <LINE> <H2> Highlights: </H2> <LINE> <RGB:1,1,1> - Discover new hobbies to pass the time and boost morale. <RGB:1,1,1>- Play musical instruments, learn hundreds of songs, sing, form a band, and more. <RGB:1,1,1> - Become the life of the party with functional jukeboxes, dj booths, disco balls and fully realized dance hobby with hundreds of dance moves. <RGB:1,1,1> - Care for your survivor and turn your safehouse into a haven of cleanliness and tranquility with dozens of new interactible items and objects like mirrors, combs, bathtubs, showers, toothbrushes, sponges, perfumes, and more. <RGB:1,1,1> - Perfect for players looking to personalize their experience or find new ways to engage with the game. </LEFT> <LINE> <CENTER> <RGB:1,1,1> Rediscover the joy of hobbies and self-expression, even in the harshest of times. </CENTER> <LINE> <LEFT> <RGB:0.8,0.8,0.8> Has sandbox options. Compatible with most other mods, except for mods that reduce the duration of timed actions. </LEFT>",
+      "description": "Lifestyle: Hobbies Author: [Angry] Are you looking to add more variety and depth to your survival experience in Project Zomboid? *Lifestyle: Hobbies* introduces a range of new interactions and activities, making everyday survival more engaging and rewarding. Highlights: - Discover new hobbies to pass the time and boost morale. - Play musical instruments, learn hundreds of songs, sing, form a band, and more. - Become the life of the party with functional jukeboxes, dj booths, disco balls and fully realized dance hobby with hundreds of dance moves. - Care for your survivor and turn your safehouse into a haven of cleanliness and tranquility with dozens of new interactible items and objects like mirrors, combs, bathtubs, showers, toothbrushes, sponges, perfumes, and more. - Perfect for players looking to personalize their experience or find new ways to engage with the game. Rediscover the joy of hobbies and self-expression, even in the harshest of times. Has sandbox options. Compatible with most other mods, except for mods that reduce the duration of timed actions.",
       "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/LifestyleHobbies-v42.zip",
       "zip_name": "LifestyleHobbies-v42.zip"
     },
@@ -442,7 +442,7 @@
       "id": "Survivors",
       "name": "Just Survivors",
       "version": "42",
-      "description": "<ORANGE>Legacy internal namespace retained for compatibility.",
+      "description": "Legacy internal namespace retained for compatibility.",
       "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/Survivors-v42.zip",
       "zip_name": "Survivors-v42.zip"
     },
