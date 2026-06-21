@@ -367,6 +367,14 @@
       "zip_name": "LifestyleHobbies-v42.zip"
     },
     {
+      "id": "Military_Tool_Kit",
+      "name": "Faded's Military Tool Kit Fix",
+      "version": "2.1.7",
+      "description": "Temporary B42.18 compatibility fix for Military Tool Kit by Papa_Chad. Patch work by Faded; testing help by Ghost_Echo.",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-21-military-tool-kit-fix/Military_Tool_Kit-v2.1.7.zip",
+      "zip_name": "Military_Tool_Kit-v2.1.7.zip"
+    },
+    {
       "id": "NNC42PublicBranch",
       "name": "N&C's Narcotics - B42.19",
       "version": "1.7.0",
