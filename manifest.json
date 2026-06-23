@@ -79,24 +79,27 @@
       "name": "Buildcraft Reborn",
       "version": "0.1.0",
       "description": "Build 42.18 unified Make / Build UI overhaul. Preserves vanilla crafting and building logic while presenting a faster compact interface.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/BuildcraftReborn-v0.1.0.zip",
-      "zip_name": "BuildcraftReborn-v0.1.0.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-csr-buildcraft-clearview/BuildcraftReborn-v0.1.0.zip",
+      "zip_name": "BuildcraftReborn-v0.1.0.zip",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "CommonSenseReborn",
       "name": "Common Sense Reborn",
       "version": "1.8.37",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 120+ sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/CommonSenseReborn-v1.8.37.zip",
-      "zip_name": "CommonSenseReborn-v1.8.37.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-csr-buildcraft-clearview/CommonSenseReborn-v1.8.37.zip",
+      "zip_name": "CommonSenseReborn-v1.8.37.zip",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "CommonSenseRebornTest",
       "name": "Common Sense Reborn (Test)",
       "version": "1.8.37",
       "description": "Build 42 QoL mega-mod. 100+ features across food, tools, entry, repair, weapons, vehicles, loot, HUD, and more. 120+ sandbox options. SP + MP. No dependencies.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/CommonSenseRebornTest-v1.8.37.zip",
-      "zip_name": "CommonSenseRebornTest-v1.8.37.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-csr-buildcraft-clearview/CommonSenseRebornTest-v1.8.37.zip",
+      "zip_name": "CommonSenseRebornTest-v1.8.37.zip",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "CSRAdminCommandCenter",
@@ -207,8 +210,9 @@
       "name": "Faded's ClearView UI",
       "version": "42.19",
       "description": "Clean-room compact dark UI pass for Project Zomboid Build 42.19. Adds Faded purple accents, rarity-aware item names/columns/icon accents, and optional Common Sense Reborn UI surface styling without replacing inventory authority.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/FadedsClearViewUI-v42.19.zip",
-      "zip_name": "FadedsClearViewUI-v42.19.zip"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-csr-buildcraft-clearview/FadedsClearViewUI-v42.19.zip",
+      "zip_name": "FadedsClearViewUI-v42.19.zip",
+      "updated_at": "2026-06-23"
     },
     {
       "id": "FadedsLastChance",
