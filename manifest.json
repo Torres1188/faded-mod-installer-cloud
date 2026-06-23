@@ -320,7 +320,9 @@
       "version": "42.18",
       "description": "Server-authoritative vehicle physics, trunk capacity, and sandbox sync for Build 42 dedicated multiplayer.",
       "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-20-all-mods/IKappalD-Faded-s-True-Real-World-Vehicle-Physics-Multiplayer-v42.18.zip",
-      "zip_name": "IKappalD-Faded-s-True-Real-World-Vehicle-Physics-Multiplayer-v42.18.zip"
+      "zip_name": "IKappalD-Faded-s-True-Real-World-Vehicle-Physics-Multiplayer-v42.18.zip",
+      "size_bytes": 58922,
+      "sha256": "e90ac24ae6c7abf1f27d9868d149e27de342902550d989b45dc2528a2bf9d7c2"
     },
     {
       "id": "IKappalD & Faded's True Real World Vehicle Physics SinglePlayer",
