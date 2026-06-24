@@ -545,13 +545,13 @@
       "id": "SalvagedFuelRecoveryStation",
       "server_mod_id": "SalvagedFuelRecoveryStation",
       "name": "Salvaged Fuel Recovery Station",
-      "version": "1.0.0",
-      "description": "An improvised biogas extraction and crude fuel refinement machine. Convert organic waste into propane or gasoline using dangerous, noisy industrial processing.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/SalvagedFuelRecoveryStation-v1.0.0.zip",
-      "zip_name": "SalvagedFuelRecoveryStation-v1.0.0.zip",
-      "size_bytes": 168886,
-      "sha256": "d35d09576e5307673fb02516d7ea63975262367ddbef140dafda4368f0a3c82e",
-      "updated_at": "2026-06-23"
+      "version": "1.2.0",
+      "description": "An improvised biogas extraction and crude fuel refinement machine. Convert organic waste into propane or gasoline using dangerous, noisy industrial processing. Warning: it attracts zombies to your location.",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-24-path-fuel-update/SalvagedFuelRecoveryStation-v1.2.0.zip",
+      "zip_name": "SalvagedFuelRecoveryStation-v1.2.0.zip",
+      "size_bytes": 176308,
+      "sha256": "c7a8be1dc1ddb2feb39a5a79e9b31be2e38dcf0dd31ac506d52bf323597a8fc6",
+      "updated_at": "2026-06-24"
     },
     {
       "id": "SkillBookExpansionB42",
@@ -718,13 +718,13 @@
       "id": "ThePathLessTraveled",
       "server_mod_id": "ThePathLessTraveled",
       "name": "The Path Less Traveled",
-      "version": "42.19",
+      "version": "0.2.0",
       "description": "Build 42.19 multiplayer-first proficiency path progression with server-authoritative path choices, sacrifice gates, proficiency XP, and Skills tab integration.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/ThePathLessTraveled-v42.19.zip",
-      "zip_name": "ThePathLessTraveled-v42.19.zip",
-      "size_bytes": 21996,
-      "sha256": "a6e2a99c101e2e684cae981b03455d6383fc6c0d7939e195f1673d02ee1fb7ca",
-      "updated_at": "2026-06-23"
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-24-path-fuel-update/ThePathLessTraveled-v0.2.0.zip",
+      "zip_name": "ThePathLessTraveled-v0.2.0.zip",
+      "size_bytes": 29768,
+      "sha256": "2c6831a77b33a4d61cc9c04c96427ce22590761df2cda0f5b49eacbbf56128b5",
+      "updated_at": "2026-06-24"
     }
   ]
 }
