@@ -720,11 +720,11 @@
       "name": "The Path Less Traveled",
       "version": "0.2.0",
       "description": "Build 42.19 multiplayer-first proficiency path progression with server-authoritative path choices, sacrifice gates, proficiency XP, and Skills tab integration.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-24-path-fuel-update/ThePathLessTraveled-v0.2.0.zip",
+      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-25-path-less-traveled-update/ThePathLessTraveled-v0.2.0.zip",
       "zip_name": "ThePathLessTraveled-v0.2.0.zip",
-      "size_bytes": 29768,
-      "sha256": "2c6831a77b33a4d61cc9c04c96427ce22590761df2cda0f5b49eacbbf56128b5",
-      "updated_at": "2026-06-24"
+      "size_bytes": 31585,
+      "sha256": "b9407d99b0e470fc8e74beece5ace637a47710cbbb6dc857f2dc1ea535dc0383",
+      "updated_at": "2026-06-25"
     }
   ]
 }
