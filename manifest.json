@@ -524,13 +524,23 @@
       "id": "LifestyleHobbies",
       "server_mod_id": "LifestyleHobbies",
       "name": "Lifestyle: Hobbies",
-      "version": "0.3.92",
+      "version": "0.3.93",
       "description": "Lifestyle: Hobbies Author: [Angry] Are you looking to add more variety and depth to your survival experience in Project Zomboid? *Lifestyle: Hobbies* introduces a range of new interactions and activities, making everyday survival more engaging and rewarding. Highlights: - Discover new hobbies to pass the time and boost morale. - Play musical instruments, learn hundreds of songs, sing, form a band, and more. - Become the life of the party with functional jukeboxes, dj booths, disco balls and fully realized dance hobby with hundreds of dance moves. - Care for your survivor and turn your safehouse into a haven of cleanliness and tranquility with dozens of new interactible items and objects like mirrors, combs, bathtubs, showers, toothbrushes, sponges, perfumes, and more. - Perfect for players looking to personalize their experience or find new ways to engage with the game. Rediscover the joy of hobbies and self-expression, even in the harshest of times. Has sandbox options. Compatible with most other mods, except for mods that reduce the duration of timed actions.",
-      "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-23-zomboid-mods-refresh/LifestyleHobbies-v0.3.92.zip",
-      "zip_name": "LifestyleHobbies-v0.3.92.zip",
-      "size_bytes": 1221695550,
-      "sha256": "4e23d956e5056acc81fe7de20c98a74f3ad3dd9fcf9e01bda5ec6e538f4c58d6",
-      "updated_at": "2026-06-23"
+      "download_parts": [
+        {
+          "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-27-lifestyle-update/LifestyleHobbies-v0.3.93-part1.zip",
+          "zip_name": "LifestyleHobbies-v0.3.93-part1.zip",
+          "size_bytes": 1711520884,
+          "sha256": "adb69ae0bdba9b58501af8120fa0a95c3279818ab5cdd92472b743a637567c95"
+        },
+        {
+          "download_url": "https://github.com/Torres1188/faded-mod-installer-cloud/releases/download/mod-assets-2026-06-27-lifestyle-update/LifestyleHobbies-v0.3.93-part2.zip",
+          "zip_name": "LifestyleHobbies-v0.3.93-part2.zip",
+          "size_bytes": 292679504,
+          "sha256": "8fecacdbafa311b6b6dae20bb62e66ec31adc6c18636f662a959da64ff580278"
+        }
+      ],
+      "updated_at": "2026-06-27"
     },
     {
       "id": "LogStackDictStub",
